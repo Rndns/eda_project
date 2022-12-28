@@ -1,0 +1,766 @@
+id,Movie Name,Eng Name,Genre
+0,그린 북,Green Book,드라마
+1,가버나움,Capharnaum,드라마
+2,원더,Wonder,드라마
+3,아일라,Ayla The Daughter of War,드라마
+4,당갈,Dangal,드라마
+5,먼 훗날 우리,Us and Them,드라마
+6,쇼생크 탈출,The Shawshank Redemption,드라마
+7,덕구,Stand by me,드라마
+8,보헤미안 랩소디,Bohemian Rhapsody,드라마
+9,포레스트 검프,Forrest Gump,드라마
+10,위대한 쇼맨,The Greatest Showman,드라마
+11,인생은 아름다워,La Vita E Bella,드라마
+12,헬프,The Help,드라마
+13,캐스트 어웨이,Cast Away,드라마
+14,쉰들러 리스트,Schindlers List,드라마
+15,죽은 시인의 사회,Dead Poets Society,드라마
+16,히든 피겨스,Hidden Figures,드라마
+17,집으로...,The Way Home,드라마
+18,여인의 향기,Scent Of A Woman,드라마
+19,아이 캔 스피크,i Can Speak,드라마
+20,동주,DongJu The Portrait of A Poet,드라마
+21,굿바이 마이 프랜드,The Cure,드라마
+22,굿 윌 헌팅,Good Will Hunting,드라마
+23,미스 슬로운,Miss Sloane,드라마
+24,자산어보,The Book of Fish,드라마
+25,지상의 별처럼,TZP,드라마
+26,아마데우스,Amadeus,드라마
+27,두 교황,The Two Popes,드라마
+28,아이 엠 샘,I Am Sam,드라마
+29,그대를 사랑합니다,I Love You,드라마
+30,빌리 엘리어트,Billy Elliot,드라마
+31,피아니스트,The Pianist,드라마
+32,시네마 천국,Cinema Paradiso,드라마
+33,소원,HOPE,드라마
+34,우리들의 일그러진 영웅,Our Twisted Hero,드라마
+35,블라인드 사이드,The Blind Side,드라마
+36,패왕별희 디 오리지널,Farewell My Concubine,드라마
+37,코러스,Les Choristes,드라마
+38,뷰티풀 투모로우,Beautiful Tomorrow,드라마
+39,8월의 크리스마스,Christmas In August,드라마
+40,록키,Rocky,드라마
+41,일급 살인,Murder In The First,드라마
+42,달링,Breathe,드라마
+43,시월애,A Love Story,드라마
+44,인생,Lifetimes,드라마
+45,허스토리,Herstory,드라마
+46,내 이름은 칸,My Name Is Khan,드라마
+47,"나, 다니엘 블레이크",Daniel Blake,드라마
+48,천국의 아이들,The Children Of Heaven,드라마
+49,공동경비구역 JSA,Joint Security Area,드라마
+50,반지의 제왕: 왕의 귀환,The Lord Of The Rings The Return Of The King,판타지
+51,해리 포터와 마법사의 돌,Harry Potter And The Sorcerers Stone,판타지
+52,반지의 제왕: 두 개의 탑,The Lord Of The Rings The Two Towers,판타지
+53,반지의 제왕: 반지 원정대,The Lord Of The Rings The Fellowship Of The Ring,판타지
+54,천녀유혼,A Chinese Ghost Story,판타지
+55,가위손,Edward Scissorhands,판타지
+56,조 블랙의 사랑,Meet Joe Black,판타지
+57,캐리비안의 해적 - 블랙 펄의 저주,Pirates Of The Caribbean The Curse Of The Black Pearl,판타지
+58,온워드: 단 하루의 기적,Onward,판타지
+59,천녀유혼 3,A Chinese Ghost Story III,판타지
+60,벤자민 버튼의 시간은 거꾸로 간다,The Curious Case Of Benjamin Button,판타지
+61,천녀유혼 2,A Chinese Ghost Story II The Story Continues,판타지
+62,캐리비안의 해적 - 망자의 함,Pirates Of The Caribbean Dead Mans Chest,판타지
+63,해리 포터와 비밀의 방,Harry Potter And The Chamber Of Secrets,판타지
+64,팀 버튼의 크리스마스 악몽,Tim Burtons The Nightmare Before Christmas,판타지
+65,스타더스트,Stardust,판타지
+66,드라큐라,Bram Stokers Dracula,판타지
+67,찰리와 초콜릿 공장,Charlie And The Chocolate Factory,판타지
+68,미녀와 야수,Beauty and the Beast,판타지
+69,해리 포터와 아즈카반의 죄수,Harry Potter And The Prisoner Of Azkaban,판타지
+70,스트레인저 댄 픽션,Stranger Than Fiction,판타지
+71,"당신, 거기 있어줄래요",Will You Be There,판타지
+72,큐브,Cube,판타지
+73,나니아 연대기 - 캐스피언 왕자,The Chronicles Of Narnia Prince Caspian,판타지
+74,천국의 우편배달부,Postman To Heaven,판타지
+75,13층,The Thirteenth Floor,판타지
+76,천년여우 여우비,Yobi,판타지
+77,스파이더위크가의 비밀,The Spiderwick Chronicles,판타지
+78,록키 호러 픽쳐 쇼,The Rocky Horror Picture Show,판타지
+79,호빗: 다섯 군대 전투,The Hobbit The Battle of the Five Armies,판타지
+80,호빗 : 스마우그의 폐허,The Hobbit  The Desolation of Smaug,판타지
+81,아더와 미니모이: 제1탄 비밀 원정대의 출정,Arthur Et Les Minimoys,판타지
+82,미스 페레그린과 이상한 아이들의 집,Miss Peregrines Home For Peculiar Children,판타지
+83,호빗 : 뜻밖의 여정,The Hobbit An Unexpected Journey,판타지
+84,존 말코비치 되기,Being John Malkovich,판타지
+85,"오늘 밤, 로맨스 극장에서",Color Me True,판타지
+86,불청객,The Uninvited,판타지
+87,헝거게임: 캣칭 파이어,The Hunger Games Catching Fire,판타지
+88,비밀,Secret,판타지
+89,판의 미로 - 오필리아와 세 개의 열쇠,El Laberinto Del Fauno,판타지
+90,내안의 그놈,Inside me,판타지
+91,말레피센트,Maleficent,판타지
+92,캐리비안의 해적 - 세상의 끝에서,Pirates Of The Caribbean At Worlds End,판타지
+93,인랑,JINROH The Wolf Brigade,판타지
+94,경계선,GRANS,판타지
+95,슬리피 할로우,Sleepy Hollow,판타지
+96,신비한 동물사전,Fantastic Beasts and Where to Find Them,판타지
+97,메리 포핀스 리턴즈,Mary Poppins Returns,판타지
+98,케이트 앤 레오폴드,Kate  Leopold,판타지
+99,환생,Resurrection,판타지
+100,뱀파이어와의 인터뷰,Interview With The Vampire The Vampire Chronicles,공포
+101,에이리언,Alien,공포
+102,싸이코,Psycho,공포
+103,죠스,Jaws,공포
+104,무서운 집,Scary house,공포
+105,사탄의 인형,Childs Play,공포
+106,"장화, 홍련",A Tale Of Two Sisters,공포
+107,알 포인트,RPoint,공포
+108,블레이드 2,Blade,공포
+109,딥 블루 씨,Deep Blue Sea,공포
+110,플라이,The Fly,공포
+111,엑소시스트,The Exorcist,공포
+112,카메라를 멈추면 안 돼!,One Cut of the Dead,공포
+113,나이트메어,A Nightmare On Elm Street,공포
+114,렛 미 인,Lat Den Ratte Komma In,공포
+115,링,The Ring,공포
+116,새벽의 저주,Dawn Of The Dead,공포
+117,패컬티,The Faculty,공포
+118,오펀: 천사의 비밀,Orphan,공포
+119,스크림,Scream,공포
+120,오멘,The Omen,공포
+121,쏘우 2,Saw II,공포
+122,데스티네이션,Final Destination,공포
+123,여고괴담 두번째 이야기,Memento Mori,공포
+124,컨저링 2,The Conjuring,공포
+125,팬도럼,Pandorum,공포
+126,본즈 앤 올,BONES AND ALL,공포
+127,더 셀,The Cell,공포
+128,시실리 2km,km,공포
+129,이블 데드,The Evil Dead,공포
+130,여고괴담,Whispering Corridors,공포
+131,매드니스,In The Mouth Of Madness,공포
+132,데드 얼라이브,Braindead,공포
+133,불신지옥,Possessed,공포
+134,맨 인 더 다크,Dont Breathe,공포
+135,스켈리톤 키,The Skeleton Key,공포
+136,트라이앵글,Triangle,공포
+137,제인 도,The Autopsy of Jane Doe,공포
+138,반교: 디텐션,Detention,공포
+139,하우스 오브 왁스,House Of Wax,공포
+140,컨저링,The Conjuring,공포
+141,더 로드,Dead End,공포
+142,떼시스,Thesis,공포
+143,에이리언 2020,Pitch Black,공포
+144,1408,,공포
+145,사일런트 힐,Silent Hill,공포
+146,라스트 나잇 인 소호,Last Night in Soho,공포
+147,마마,Mama,공포
+148,어느날 갑자기 세번째 이야기 - D-day,,공포
+149,스테이크 랜드,Stake Land,공포
+150,클래식,The Classic,멜로/애정/로맨스
+151,사운드 오브 뮤직,The Sound Of Music,멜로/애정/로맨스
+152,타이타닉,Titanic,멜로/애정/로맨스
+153,"지금, 만나러 갑니다",Be With You,멜로/애정/로맨스
+154,로망,Romang,멜로/애정/로맨스
+155,플립,Flipped,멜로/애정/로맨스
+156,소년시절의 너,Better Days,멜로/애정/로맨스
+157,말할 수 없는 비밀,Secret,멜로/애정/로맨스
+158,사랑과 영혼,Ghost,멜로/애정/로맨스
+159,첫 키스만 50번째,First Dates,멜로/애정/로맨스
+160,러브 앳,Mon inconnue,멜로/애정/로맨스
+161,어바웃 타임,About Time,멜로/애정/로맨스
+162,사랑의 블랙홀,Groundhog Day,멜로/애정/로맨스
+163,러브 어페어,Love Affair,멜로/애정/로맨스
+164,첨밀밀,Comrades Almost A Love Story,멜로/애정/로맨스
+165,그해 여름,Once In A Summer,멜로/애정/로맨스
+166,오직 그대만,Always,멜로/애정/로맨스
+167,이터널 선샤인,Eternal Sunshine Of The Spotless Mind,멜로/애정/로맨스
+168,파이란,Failan,멜로/애정/로맨스
+169,노팅 힐,Notting Hill,멜로/애정/로맨스
+170,너는 내 운명,Youre My Sunshine,멜로/애정/로맨스
+171,이프 온리,If Only,멜로/애정/로맨스
+172,노트북,The Notebook,멜로/애정/로맨스
+173,꽃다발 같은 사랑을 했다,We Made a Beautiful Bouquet,멜로/애정/로맨스
+174,당신이 잠든 사이에,While You Were Sleeping,멜로/애정/로맨스
+175,더티 댄싱,Dirty Dancing,멜로/애정/로맨스
+176,동감,Ditto,멜로/애정/로맨스
+177,성원,Fly Me To Polaris,멜로/애정/로맨스
+178,블루 라군,The Blue Lagoon,멜로/애정/로맨스
+179,청설,Hear Me,멜로/애정/로맨스
+180,"그 시절, 우리가 좋아했던 소녀",You Are the Apple of My Eye,멜로/애정/로맨스
+181,보디가드,The Bodyguard,멜로/애정/로맨스
+182,연애소설,Lovers Concerto,멜로/애정/로맨스
+183,마법에 걸린 사랑,Enchanted,멜로/애정/로맨스
+184,내 이야기!!,My Love Story,멜로/애정/로맨스
+185,번지 점프를 하다,Bungee Jumping Of Their Own,멜로/애정/로맨스
+186,선물,Last Present,멜로/애정/로맨스
+187,오버 더 레인보우,Over The Rainbow,멜로/애정/로맨스
+188,윤희에게,Moonlit Winter,멜로/애정/로맨스
+189,"나는 내일, 어제의 너와 만난다",My tomorrow,멜로/애정/로맨스
+190,러브 액츄얼리,Love Actually,멜로/애정/로맨스
+191,"다만, 널 사랑하고 있어",Heavenly Forest,멜로/애정/로맨스
+192,에버 애프터,Ever After,멜로/애정/로맨스
+193,미드나잇 선,Midnight Sun,멜로/애정/로맨스
+194,...ing,,멜로/애정/로맨스
+195,비포 선라이즈,Before Sunrise,멜로/애정/로맨스
+196,내 머리 속의 지우개,A Moment To Remember,멜로/애정/로맨스
+197,그 여자 작사 그 남자 작곡,MUSIC  LYRICS,멜로/애정/로맨스
+198,나의 소녀시대,Our Times,멜로/애정/로맨스
+199,블랙북,Zwartboek,멜로/애정/로맨스
+200,베일리 어게인,A Dogs Purpose,모험
+201,나 홀로 집에,Home Alone,모험
+202,알라딘,Aladdin,모험
+203,나 홀로 집에 2 - 뉴욕을 헤매다,Home Alone  Lost In New York,모험
+204,해리 포터와 죽음의 성물 - 2부,Harry Potter And The Deathly Hallows Part,모험
+205,에이트 빌로우,Eight Below,모험
+206,미이라,The Mummy,모험
+207,빠삐용,Papillon,모험
+208,쥬만지,Jumanji,모험
+209,블러드 다이아몬드,Blood Diamond,모험
+210,버킷리스트: 죽기 전에 꼭 하고 싶은 것들,The Bucket List,모험
+211,인디아나 존스 - 최후의 성전,Indiana Jones And The Last Crusade,모험
+212,구니스,The Goonies,모험
+213,볼트,Bolt,모험
+214,진용,A TerraCotta Warrior,모험
+215,인디아나 존스,Indiana Jones And The Temple Of Doom,모험
+216,곰돌이 푸 다시 만나 행복해,Christopher Robin,모험
+217,본 슈프리머시,The Bourne Supremacy,모험
+218,킹콩,King Kong,모험
+219,스노우 워커,The Snow Walker,모험
+220,레이더스,Raiders Of The Lost Ark,모험
+221,콜 오브 와일드,The Call of the Wild,모험
+222,미이라 2,The Mummy Returns,모험
+223,라이프 오브 파이,Life of Pi,모험
+224,극장판 포켓몬스터 너로 정했다!,Pokemon the movie I Choose You,모험
+225,미션 임파서블 3,Mission Impossible III,모험
+226,극장판 원피스 스탬피드,ONE PIECE STAMPEDE,모험
+227,월터의 상상은 현실이 된다,The Secret Life of Walter Mitty,모험
+228,포켓몬 더 무비 XY&Z 「볼케니온 : 기계왕국의 비밀」,XYZ,모험
+229,극장판 도라에몽: 진구의 마계 대모험 7인의 마법사,,모험
+230,괴물,The Host,모험
+231,더 폴: 오디어스와 환상의 문,The Fall,모험
+232,트래쉬,Trash,모험
+233,옥자,Okja,모험
+234,정글북,The Jungle Book,모험
+235,워터월드,Waterworld,모험
+236,마션,The Martian,모험
+237,에놀라 홈즈,Enola Holmes,모험
+238,노스페이스,Nordwand,모험
+239,프리즌 이스케이프,Escape From Pretoria,모험
+240,로드 투 퍼디션,Road To Perdition,모험
+241,해적: 바다로 간 산적,The Pirates,모험
+242,라이온 킹,The Lion King,모험
+243,거울나라의 앨리스,Alice Through the Looking Glass,모험
+244,벤허,BenHur,모험
+245,피터와 드래곤,Petes Dragon,모험
+246,벼랑 위의 포뇨,Ponyo On The Cliff,모험
+247,허비 - 첫 시동을 걸다,Herbie Fully Loaded,모험
+248,워터호스,The Water Horse Legend Of The Deep,모험
+249,127 시간,Hours,모험
+250,올빼미,The Night Owl,스릴러
+251,저수지 게임,The Reservoir Game,스릴러
+252,미져리,Misery,스릴러
+253,하녀,The Housemaid,스릴러
+254,김복남 살인사건의 전말,Bedevilled,스릴러
+255,모리타니안,The Mauritanian,스릴러
+256,조커,Joker,스릴러
+257,범죄의 여왕,The Queen of Crime,스릴러
+258,배드 지니어스,Chalard Games Goeng,스릴러
+259,프레스티지,The Prestige,스릴러
+260,올가미,The Hole,스릴러
+261,레드 스패로,Red Sparrow,스릴러
+262,몽타주,Montage,스릴러
+263,분노,RAGE,스릴러
+264,더 스파이,The Courier,스릴러
+265,닥터 슬립,Doctor Sleep,스릴러
+266,리턴,Return,스릴러
+267,해피 엔드,Happy End,스릴러
+268,폴: 600미터,The Fall,스릴러
+269,나를 찾아줘,Gone Girl,스릴러
+270,더 테러 라이브,The Terror,스릴러
+271,더 재킷,The Jacket,스릴러
+272,제로 다크 서티,Zero Dark Thirty,스릴러
+273,노인을 위한 나라는 없다,No Country For Old Men,스릴러
+274,팅커 테일러 솔저 스파이,Tinker Tailor Soldier Spy,스릴러
+275,랜섬,Ransom,스릴러
+276,작전명 발키리,Valkyrie,스릴러
+277,무언의 목격자,Mute Witness,스릴러
+278,롱 키스 굿나잇,The Long Kiss Goodnight,스릴러
+279,콰이어트 플레이스 2,A Quiet Place Part II,스릴러
+280,트위스터,Twister,스릴러
+281,블라인드 멜로디,Andhadhun,스릴러
+282,아나콘다,Anaconda,스릴러
+283,퍼펙트 스톰,The Perfect Storm,스릴러
+284,프리즈너스,Prisoners,스릴러
+285,딥 라이징,Deep Rising,스릴러
+286,아웃브레이크,Outbreak,스릴러
+287,밀레니엄 : 여자를 증오한 남자들,The Girl With The Dragon Tattoo,스릴러
+288,블라인드,Blind,스릴러
+289,썸 오브 올 피어스,The Sum Of All Fears,스릴러
+290,인썸니아,Insomnia,스릴러
+291,히든 페이스,La cara oculta,스릴러
+292,프리즈 프레임,Freeze Frame,스릴러
+293,섹스 마네킹,Love Object,스릴러
+294,머시니스트,The Machinist,스릴러
+295,덫: 치명적인 유혹,Trap,스릴러
+296,존 윅,John Wick,스릴러
+297,함정,Arlington Road,스릴러
+298,본 콜렉터,The Bone Collector,스릴러
+299,거미숲,Spider Forest,스릴러
+300,달콤한 인생,A Bittersweet Life,느와르
+301,18 : 우리들의 성장 느와르,Eighteen Noir,느와르
+302,하이힐,Highheel,느와르
+303,사생결단,Bloody Tie,느와르
+304,창수,Tumbleweed,느와르
+305,친구2,FRIEND  THE GREAT LEGACY,느와르
+306,런던 블러바드,London Boulevard,느와르
+307,미옥,A Special Lady,느와르
+308,깡치,Kkangchi,느와르
+309,얼굴없는 보스,The faceless boss,느와르
+310,할머니의 먼 집,DEAR GRANDMA,다큐멘터리
+311,밥정,The Wandering Chef,다큐멘터리
+312,주전장,Shusenjo The Main Battleground of Comfort Women Issue,다큐멘터리
+313,사이버 지옥: N번방을 무너뜨려라,Cyber Hell Exposing An Internet Horror,다큐멘터리
+314,가나의 혼인잔치: 언약,Before The Wrath,다큐멘터리
+315,다시 태어나도 우리,Becoming Who I Was,다큐멘터리
+316,울지마 톤즈,Dont Cry for Me Sudan,다큐멘터리
+317,교회오빠,A Job Who Is near Us,다큐멘터리
+318,폴란드로 간 아이들,The Children Gone to Poland,다큐멘터리
+319,브레이크 더 사일런스: 더 무비,BREAK THE SILENCE THE MOVIE,다큐멘터리
+320,자백,Spy Nation,다큐멘터리
+321,더 코브: 슬픈 돌고래의 진실,The Cove,다큐멘터리
+322,퀸 락 몬트리올,Queen Rock Montreal,다큐멘터리
+323,마이클 잭슨의 디스 이즈 잇,Michael Jacksons This Is It,다큐멘터리
+324,브링 더 소울 : 더 무비,BRING THE SOUL  THE MOVIE,다큐멘터리
+325,부활: 그 증거,Stigma,다큐멘터리
+326,땐뽀걸즈,Dance sports Girls,다큐멘터리
+327,트루맛쇼,The Truetaste Show,다큐멘터리
+328,"님아, 그 강을 건너지 마오",My Love,다큐멘터리
+329,잉여들의 히치하이킹,Lazy hitchhikers tour de europe,다큐멘터리
+330,뚜르: 내 생애 최고의 49일,Le Tour My Last  Days,다큐멘터리
+331,슈퍼소닉,Supersonic,다큐멘터리
+332,"서서평, 천천히 평온하게",,다큐멘터리
+333,너에게 가는 길,Coming to you,다큐멘터리
+334,칠곡 가시나들,Granny Poetry Club,다큐멘터리
+335,트와이스랜드,TWICELAND,다큐멘터리
+336,식코,Sicko,다큐멘터리
+337,비상,Fly Up,다큐멘터리
+338,트윈스터즈,Twinsters,다큐멘터리
+339,전투왕,,다큐멘터리
+340,피아니스트 세이모어의 뉴욕 소네트,Seymour An Introduction,다큐멘터리
+341,피의 연대기,For Vaginas Sake,다큐멘터리
+342,공범자들,Criminal Conspiracy,다큐멘터리
+343,젝스키스 에이틴,SECHSKIES Eighteen,다큐멘터리
+344,댄서,Dancer,다큐멘터리
+345,"제자, 옥한흠",,다큐멘터리
+346,나는 고양이로소이다,I am a Cat,다큐멘터리
+347,타샤 튜더,Tasha Tudor A Still Water Story,다큐멘터리
+348,서칭 포 슈가맨,Searching for Sugar Man,다큐멘터리
+349,인생 후르츠,Life Is Fruity,다큐멘터리
+350,고양이 춤,Dancing Cat,다큐멘터리
+351,빅뱅 메이드,BIGBANG MADE,다큐멘터리
+352,인사이드 잡,Inside Job,다큐멘터리
+353,말하는 건축가,Talking Architect,다큐멘터리
+354,김정일리아,Kimjongilia,다큐멘터리
+355,우리 학교,Our School,다큐멘터리
+356,"그날, 바다",Intention,다큐멘터리
+357,우린 액션배우다,Action Boys,다큐멘터리
+358,노무현입니다,OUR PRESIDENT,다큐멘터리
+359,태양 아래,V paprscich slunce,다큐멘터리
+360,서유기 2 - 선리기연,A Chinese Odyssey Part Two  Cinderella,코미디
+361,트루먼 쇼,The Truman Show,코미디
+362,세 얼간이,Idiots,코미디
+363,미세스 다웃파이어,Mrs Doubtfire,코미디
+364,언터처블: 1%의 우정,Intouchables,코미디
+365,모던 타임즈,Modern Times,코미디
+366,라따뚜이,Ratatouille,코미디
+367,엽기적인 그녀,My Sassy Girl,코미디
+368,로마의 휴일,Roman Holiday,코미디
+369,패밀리 맨,The Family Man,코미디
+370,시스터 액트,Sister Act,코미디
+371,위대한 독재자,The Great Dictator,코미디
+372,빅,Big,코미디
+373,서유기 - 월광보합,A Chinese Odyssey Part One  Pandoras Box,코미디
+374,스팅,The Sting,코미디
+375,스쿨 오브 락,The School Of Rock,코미디
+376,라디오 스타,Radio Star,코미디
+377,과속스캔들,Speed Scandal,코미디
+378,마틸다,Matilda,코미디
+379,마스크,The Mask,코미디
+380,조조 래빗,Jojo Rabbit,코미디
+381,패딩턴 2,Paddington,코미디
+382,쉘 위 댄스,Shall We Dance,코미디
+383,혐오스런 마츠코의 일생,Memories Of Matsuko,코미디
+384,즐거운 인생,Happy Life,코미디
+385,취권,Drunken Master,코미디
+386,클릭,Click,코미디
+387,아는 여자,Someone Special,코미디
+388,써니,Sunny,코미디
+389,우드잡,Wood Job,코미디
+390,시스터 액트 2,Sister Act  Back In The Habit,코미디
+391,패치 아담스,Patch Adams,코미디
+392,피케이: 별에서 온 얼간이,PK,코미디
+393,내 깡패 같은 애인,My Dear Desperado,코미디
+394,바그다드 카페 : 디렉터스컷,Out Of Rosenheim,코미디
+395,경찰서를 털어라,Blue Streak,코미디
+396,브루스 올마이티,Bruce Almighty,코미디
+397,"알로, 슈티",Bienvenue Chez Les Chtis,코미디
+398,결혼 이야기,Marriage Story,코미디
+399,영구와 땡칠이,YongGu And Daeng Chiri,코미디
+400,선생 김봉두,Teacher Mr Kim,코미디
+401,인턴,The Intern,코미디
+402,수상한 그녀,Miss Granny,코미디
+403,터미널,The Terminal,코미디
+404,울학교 이티,Our Schools ET,코미디
+405,록 스탁 앤 투 스모킹 배럴즈,Lock,코미디
+406,불가사리,Tremors,코미디
+407,그것만이 내 세상,Keys to the Heart,코미디
+408,미스 리틀 선샤인,Little Miss Sunshine,코미디
+409,스윙걸즈,Swing Girls,코미디
+410,안녕 베일리,A Dogs Journey,가족
+411,프리 윌리,Free Willy,가족
+412,메리 포핀스,Mary Poppins,가족
+413,리멤버 타이탄,Remember The Titans,가족
+414,아름다운 비행,Fly Away Home,가족
+415,후크,Hook,가족
+416,짱구는 못말려 극장판: 태풍을 부르는 노래하는 엉덩이 폭탄!,,가족
+417,오즈의 마법사,The Wizard Of Oz,가족
+418,피터팬,Peter Pan,가족
+419,하치 이야기,Hachiko Monogatari,가족
+420,하치 이야기,Hachiko Monogatari,가족
+421,카,Cars,가족
+422,마음이...,Heart Is,가족
+423,덤보,Dumbo,가족
+424,투 브라더스,Deux freres,가족
+425,우리는 동물원을 샀다,WE BOUGHT A ZOO,가족
+426,하늘이 보내준 딸,Gods Own Child,가족
+427,걸어도 걸어도,Still Walking,가족
+428,날아라 허동구,Bunt,가족
+429,해피 피트,Happy Feet,가족
+430,우리 개 이야기,All About My Dog,가족
+431,마음이 2,Hearty Paws,가족
+432,동경가족,Tokyo Family,가족
+433,프린세스 다이어리,The Princess Diaries,가족
+434,리지 맥과이어,The Lizzie McGuire Movie,가족
+435,춘몽,A Quiet Dream,가족
+436,아이스케키,Ice Bar,가족
+437,G-포스: 기니피그 특공대,GForce,가족
+438,휴고,HUGO,가족
+439,용길이네 곱창집,Yakiniku Dragon,가족
+440,비밀의 숲 테라비시아,Bridge To Terabithia,가족
+441,프린세스 다이어리 2,The Princess Diaries  Royal Engagement,가족
+442,빨간 모자의 진실,Hoodwinked,가족
+443,방울토마토,,가족
+444,깡철이,Tough As Iron,가족
+445,썬키스 패밀리,Sunkist Family,가족
+446,마고리엄의 장난감 백화점,Mr Magoriums Wonder Emporium,가족
+447,어부바,Eobuba,가족
+448,콩가네,Kongs Family,가족
+449,나이브스 아웃,Knives Out,미스터리
+450,원초적 본능,Basic Instinct,미스터리
+451,바닐라 스카이,Vanilla Sky,미스터리
+452,데블스 에드버킷,The Devils Advocate,미스터리
+453,백설공주 살인사건,The Snow White Murder Case,미스터리
+454,중독노래방,Karaoke Crazies,미스터리
+455,디 아더스,The Others,미스터리
+456,폰 부스,Phone Booth,미스터리
+457,무명인,Genome Hazard,미스터리
+458,미씽: 사라진 여자,MISSING,미스터리
+459,그랜드 부다페스트 호텔,The Grand Budapest Hotel,미스터리
+460,리스본행 야간열차,Nachtzug nach Lissabon,미스터리
+461,검은 사제들,The Priests,미스터리
+462,겟 아웃,Get Out,미스터리
+463,컨테이젼,Contagion,미스터리
+464,데스 노트 - 라스트 네임,Death Note The Last Name,미스터리
+465,마녀,The Witch  Part  The Subversion,미스터리
+466,런,Run,미스터리
+467,해피 데스데이,Happy Death Day,미스터리
+468,기억의 밤,Forgotten,미스터리
+469,리미트리스,Limitless,미스터리
+470,천사와 악마,Angels  Demons,미스터리
+471,화차,Helpless,미스터리
+472,웃는 남자,Lhomme qui rit,미스터리
+473,백야행 - 하얀 어둠 속을 걷다,Into The White Night,미스터리
+474,줄리아의 눈,Los ojos de Julia,미스터리
+475,적인걸2: 신도해왕의 비밀,Young Detective Dee Rise of the Sea Dragon,미스터리
+476,오드 토머스,Odd Thomas,미스터리
+477,인페르노,Inferno,미스터리
+478,조용한 세상,The World Of Silence,미스터리
+479,이레셔널 맨,Irrational Man,미스터리
+480,프랙처드,fractured,미스터리
+481,더 기프트,The Gift,미스터리
+482,용의자X,Perfect Number,미스터리
+483,곡성(哭聲),THE WAILING,미스터리
+484,더 룸,The Room,미스터리
+485,내일의 기억,Recalled,미스터리
+486,베스트셀러,Bestseller,미스터리
+487,스마일,Smile,미스터리
+488,시간위의 집,House of the Disappeared,미스터리
+489,콜,The Call,미스터리
+490,클로버필드 10번지,Cloverfield Lane,미스터리
+491,시크릿 인 데어 아이즈,Secret in Their Eyes,미스터리
+492,그때 그사람들,The Presidents Last Bang,미스터리
+493,된장,The Recipe,미스터리
+494,다빈치 코드,The Da Vinci Code,미스터리
+495,오큘러스,Oculus,미스터리
+496,소녀,Steel Cold Winter,미스터리
+497,방법: 재차의,The Cursed Dead Mans Prey,미스터리
+498,사바하,SVAHA  THE SIXTH FINGER,미스터리
+499,라이언 일병 구하기,Saving Private Ryan,전쟁
+500,12번째 솔저,Den  mann,전쟁
+501,태극기 휘날리며,TaeGukGi Brotherhood Of War,전쟁
+502,플래툰,Platoon,전쟁
+503,블랙 호크 다운,Black Hawk Down,전쟁
+504,7월 4일생,Born On The Fourth Of July,전쟁
+505,메리 크리스마스,Joyeux Noel,전쟁
+506,에너미 앳 더 게이트,Enemy At The Gates,전쟁
+507,진링의 13소녀,The Flowers of War,전쟁
+508,라스트 모히칸,The Last Of The Mohicans,전쟁
+509,디어 헌터,Die durch die Holle gehen,전쟁
+510,아웃포스트,The Outpost,전쟁
+511,고지전,The Front Line,전쟁
+512,진주만,Pearl Harbor,전쟁
+513,보리밭을 흔드는 바람,The Wind That Shakes The Barley,전쟁
+514,스탈린그라드: 최후의 전투,Stalingrad,전쟁
+515,허트 로커,The Hurt Locker,전쟁
+516,태양의 제국,Empire Of The Sun,전쟁
+517,실미도,Silmido,전쟁
+518,워 호스,War Horse,전쟁
+519,위 워 솔저스,We Were Soldiers,전쟁
+520,에너미 라인스,Behind Enemy Lines,전쟁
+521,브라더스,Brothers,전쟁
+522,장사리 : 잊혀진 영웅들,Battle of Jangsari,전쟁
+523,포화 속으로,Into The Fire,전쟁
+524,디파이언스,Defiance,전쟁
+525,황시,The Children Of Huang Shi,전쟁
+526,태양의 눈물,Tears Of The Sun,전쟁
+527,인천상륙작전,Operation Chromite,전쟁
+528,스페셜 포스 : 블러드 마운틴,Dag II,전쟁
+529,님은 먼곳에,Sunny,전쟁
+530,명장,The Warlords,전쟁
+531,제9중대,Ya Rota,전쟁
+532,아버지의 깃발,Flags Of Our Fathers,전쟁
+533,묵공,Battle Of Wits,전쟁
+534,삼국지: 명장 관우,The Lost Bladesman,전쟁
+535,알렉산더,Alexander,전쟁
+536,적벽대전 2부 - 최후의 결전,Red Cliff,전쟁
+537,집결호,Assembly,전쟁
+538,인천상륙작전 : 익스텐디드 에디션(확장판),Operation Chromite,전쟁
+539,적벽대전 1부 - 거대한 전쟁의 시작,Red Cliff,전쟁
+540,작은 연못,A Little Pond,전쟁
+541,삼국지 - 용의 부활,Three Kingdoms Resurrection Of The Dragon,전쟁
+542,서부전선,The Long Way Home,전쟁
+543,혈투,The Showdown,전쟁
+544,"DMZ, 비무장지대",Demilitarized Zone,전쟁
+545,800,The Eight Hundred,전쟁
+546,클라우스,Klaus,애니메이션
+547,디지몬 어드벤처 라스트 에볼루션 : 인연,LAST EVOLUTION,애니메이션
+548,극장판 바이올렛 에버가든,Violet Evergarden The Movie,애니메이션
+549,월-E,WALLE,애니메이션
+550,명탐정 코난: 할로윈의 신부,Detective Conan The Bride of Halloween,애니메이션
+551,센과 치히로의 행방불명,The Spiriting Away Of Sen And Chihiro,애니메이션
+552,토이 스토리 3,Toy Story,애니메이션
+553,씽2게더,Sing,애니메이션
+554,주토피아,Zootopia,애니메이션
+555,모노노케 히메,Mononoke Hime,애니메이션
+556,오세암,Oseam,애니메이션
+557,아기공룡 둘리 - 얼음별 대모험,The Little Dinosaur Dooly,애니메이션
+558,알라딘,Aladdin,애니메이션
+559,언더독,Underdog,애니메이션
+560,천공의 성 라퓨타,Laputa Castle In The Sky,애니메이션
+561,라푼젤,Tangled,애니메이션
+562,업,Up,애니메이션
+563,토이 스토리,Toy Story,애니메이션
+564,드래곤 길들이기,How To Train Your Dragon,애니메이션
+565,아이언 자이언트,The Iron Giant,애니메이션
+566,코코,Coco,애니메이션
+567,주먹왕 랄프,WreckIt Ralph,애니메이션
+568,극장판 짱구는 못말려: 격돌! 낙서왕국과 얼추 네 명의 용사들,Crayon Shinchan Crash Scribble Kingdom and Almost Four Heroes,애니메이션
+569,소울,Soul,애니메이션
+570,바람계곡의 나우시카,Nausicaa Of The Valley Of Wind,애니메이션
+571,몬스터 주식회사 3D,Monsters,애니메이션
+572,극장판 짱구는 못말려: 수수께끼! 꽃피는 천하떡잎학교,Crayon Shinchan School Mystery The Splendid Tenkasu Academy,애니메이션
+573,뽀로로 극장판 보물섬 대모험,Treasure Island Adventure,애니메이션
+574,라이온 킹,The Lion King,애니메이션
+575,타잔,Tarzan,애니메이션
+576,명탐정 코난: 베이커가의 망령,Detective Conan The Phantom of Baker Street,애니메이션
+577,극장판 귀멸의 칼날: 무한열차편,Demon Slayer Kimetsu no Yaiba the Movie  Mugen Train,애니메이션
+578,이웃집 토토로,My Neighbor Totoro,애니메이션
+579,드래곤 길들이기 3,How to Train Your Dragon The Hidden World,애니메이션
+580,토이 스토리 2,Toy Story,애니메이션
+581,동급생,Doukyusei,애니메이션
+582,인크레더블,The Incredibles,애니메이션
+583,스피릿,Spirit Stallion Of The Cimarron,애니메이션
+584,갓파 쿠와 여름방학을,Summer Days With Coo,애니메이션
+585,미녀와 야수,Beauty And The Beast,애니메이션
+586,프린스 앤 프린세스,Princes And Princesses,애니메이션
+587,크루즈 패밀리,The Croods,애니메이션
+588,명탐정 코난: 천공의 난파선,Detective Conan The Lost Ship In The Sky,애니메이션
+589,극장판 헬로카봇 : 백악기 시대,Hello Carbot the Movie The Cretaceous Period,애니메이션
+590,고 녀석 맛나겠다,You Are So Yummy,애니메이션
+591,극장판 주술회전 0,Jujutsu Kaisen Zero,애니메이션
+592,레드슈즈,Red Shoes,애니메이션
+593,인크레더블 2,Incredibles,애니메이션
+594,러빙 빈센트,Loving Vincent,애니메이션
+595,보루토 - 나루토 더 무비,NARUTO THE MOVIE,애니메이션
+596,살인의 추억,Memories Of Murder,범죄
+597,레옹,Leon,범죄
+598,범죄도시2,the roundup,범죄
+599,프리퀀시,Frequency,범죄
+600,그랜 토리노,Gran Torino,범죄
+601,대부 2,Mario Puzos The Godfather Part II,범죄
+602,그린 마일,The Green Mile,범죄
+603,칼리토,Carlitos Way,범죄
+604,캐치 미 이프 유 캔,Catch Me If You Can,범죄
+605,타짜,The War Of Flower,범죄
+606,대부 3,Mario Puzos The Godfather Part III,범죄
+607,공공의 적,Public Enemy,범죄
+608,아메리칸 히스토리 X,American History X,범죄
+609,태양은 가득히,Plein Soleil,범죄
+610,어 퓨 굿 맨,A Few Good Men,범죄
+611,JFK,JFK,범죄
+612,대부,Mario Puzos The Godfather,범죄
+613,히트,Heat,범죄
+614,무간도,Infernal Affairs,범죄
+615,추격자,The Chaser,범죄
+616,세븐 데이즈,Seven Days,범죄
+617,내부자들: 디 오리지널,Inside Men The Original,범죄
+618,도니 브래스코,Donnie Brasco,범죄
+619,호텔 뭄바이,Hotel Mumbai,범죄
+620,양들의 침묵,The Silence Of The Lambs,범죄
+621,끝까지 간다,A Hard Day,범죄
+622,내부자들,Inside Men,범죄
+623,종횡사해,Once A Thief,범죄
+624,인비저블 게스트,Contratiempo,범죄
+625,무간도 3 - 종극무간,Infernal Affairs,범죄
+626,신세계,New World,범죄
+627,스카페이스,Scarface,범죄
+628,프라이멀 피어,Primal Fear,범죄
+629,프라미싱 영 우먼,Promising Young Woman,범죄
+630,트레인스포팅,Trainspotting,범죄
+631,LA 컨피덴셜,LA Confidential,범죄
+632,시티 오브 갓,Cidade De Deus,범죄
+633,슬럼독 밀리어네어,Slumdog Millionaire,범죄
+634,메멘토,Memento,범죄
+635,바람의 소리,The Message,범죄
+636,비열한 거리,A Dirty Carnival,범죄
+637,범죄의 재구성,The Big Swindle,범죄
+638,펄프 픽션,Pulp Fiction,범죄
+639,리플리,The Talented Mr Ripley,범죄
+640,아이리시맨,The Irishman,범죄
+641,부당거래,The Unjust,범죄
+642,보이 A,Boy A,범죄
+643,몬스터,Monster,범죄
+644,용의자 X의 헌신,X,범죄
+645,유주얼 서스펙트,The Usual Suspects,범죄
+646,하이 스쿨 뮤지컬: 졸업반,High School Musical  Senior Year,뮤지컬
+647,사랑은 비를 타고,Singin In The Rain,뮤지컬
+648,인생은 아름다워,Life is Beautiful,뮤지컬
+649,물랑 루즈,Moulin Rouge,뮤지컬
+650,씽,Sing,뮤지컬
+651,시카고,Chicago,뮤지컬
+652,맘마미아!2,Mamma Mia Here We Go Again,뮤지컬
+653,헤어스프레이,Hairspray,뮤지컬
+654,딥,Deep,뮤지컬
+655,삼거리 극장,The Ghost Theater,뮤지컬
+656,어크로스 더 유니버스,Across The Universe,뮤지컬
+657,인 더 하이츠,In the Heights,뮤지컬
+658,락 오브 에이지,Rock of Ages,뮤지컬
+659,디어 에반 핸슨,Dear Evan Hansen,뮤지컬
+660,페임,Fame,뮤지컬
+661,나인,Nine,뮤지컬
+662,퍼햅스 러브,Perhaps Love,뮤지컬
+663,구미호 가족,The Fox Family,뮤지컬
+664,캣츠,Cats,뮤지컬
+665,아바타 리마스터링,Avatar,SF
+666,터미네이터 2:오리지널,Terminator  Judgment Day,SF
+667,빽 투 더 퓨쳐,Back To The Future,SF
+668,매트릭스,The Matrix,SF
+669,에이리언 2,Aliens,SF
+670,에이 아이,AI Artificial Intelligence,SF
+671,쥬라기 공원,Jurassic Park,SF
+672,바이센테니얼 맨,Bicentennial Man,SF
+673,가타카,Gattaca,SF
+674,터미네이터,The Terminator,SF
+675,로보캅,RoboCop,SF
+676,마이너리티 리포트,Minority Report,SF
+677,이티,The ExtraTerrestrial,SF
+678,빽 투 더 퓨쳐 2,Back To The Future Part,SF
+679,콘택트,Contact,SF
+680,혹성탈출,Monkey Planet,SF
+681,빽 투 더 퓨쳐 3,Back To The Future Part III,SF
+682,인터스텔라,Interstellar,SF
+683,스타워즈 에피소드 3 - 시스의 복수,Star Wars Episode III  Revenge Of The Sith,SF
+684,보물성,Treasure Planet,SF
+685,스타워즈 에피소드 5 - 제국의 역습,Star Wars Episode V The Empire Strikes Back,SF
+686,아바타,Avatar,SF
+687,아마겟돈,Armageddon,SF
+688,엑스맨: 퍼스트 클래스,XMen First Class,SF
+689,케이 팩스,KPAX,SF
+690,스타쉽 트루퍼스,Starship Troopers,SF
+691,스타워즈 에피소드 4 - 새로운 희망,Star Wars,SF
+692,스타워즈 에피소드 6 - 제다이의 귀환,Star Wars Episode VI Return Of The Jedi,SF
+693,디스트릭트 9,District,SF
+694,아이언맨,Iron Man,SF
+695,엑스맨: 데이즈 오브 퓨처 패스트,XMen Days of Future Past,SF
+696,아이언맨 3,Iron Man,SF
+697,트랜스포머,Transformers,SF
+698,토탈 리콜,Total Recall,SF
+699,지구를 지켜라!,Save The Green Planet,SF
+700,매트릭스 2 - 리로디드,The Matrix Reloaded,SF
+701,12 몽키즈,Twelve Monkeys,SF
+702,아일랜드,The Island,SF
+703,"아이, 로봇",Robot,SF
+704,딥 임팩트,Deep Impact,SF
+705,블레이드 러너,Blade Runner,SF
+706,공각기동대,Ghost In The Shell,SF
+707,13 구역,Banlieue,SF
+708,스타 트렉: 더 비기닝,Star Trek,SF
+709,맨 인 블랙,Men In Black,SF
+710,레지던트 이블,Resident Evil,SF
+711,매트릭스 3 - 레볼루션,The Matrix Revolutions,SF
+712,더 문,Moon,SF
+713,다크 시티,Dark City,SF
+714,터미네이터: 다크 페이트,Terminator Dark Fate,SF
+715,탑건: 매버릭,Top Gun Maverick,액션
+716,포드 V 페라리,FORD v FERRARI,액션
+717,글래디에이터,Gladiator,액션
+718,태극권,The TaiChi Master,액션
+719,헌터 킬러,Hunter Killer,액션
+720,어벤져스: 엔드게임,Avengers Endgame,액션
+721,클레멘타인,Clementine,액션
+722,잭 스나이더의 저스티스 리그,Zack Snyders Justice League,액션
+723,더 록,The Rock,액션
+724,다크 나이트,The Dark Knight,액션
+725,폴리스 스토리,Police Story,액션
+726,다이 하드,Die Hard,액션
+727,보디가드,The Bodyguard From Beijing,액션
+728,동방불패,Swordsman II,액션
+729,영웅: 샐러멘더의 비밀,Pyataya Kazn,액션
+730,취권 2,II Drunken Master II,액션
+731,RRR: 라이즈 로어 리볼트,RRR,액션
+732,브레이브하트,Braveheart,액션
+733,본 얼티메이텀,The Bourne Ultimatum,액션
+734,해바라기,Sunflower,액션
+735,아저씨,The Man from Nowhere,액션
+736,인셉션,Inception,액션
+737,크림슨 타이드,Crimson Tide,액션
+738,백발마녀전,The Bride With White Hair,액션
+739,엽문,The Legend Of Ip Man,액션
+740,페이스 오프,FaceOff,액션
+741,테이큰,Taken,액션
+742,프레데터,Predator,액션
+743,천장지구,To Love With No Regret,액션
+744,네고시에이터,The Negotiator,액션
+745,영웅본색,A Better Tomorrow,액션
+746,에너미 오브 스테이트,Enemy Of The State,액션
+747,범죄도시,THE OUTLAWS,액션
+748,도망자,The Fugitive,액션
+749,스트레인저 - 무황인담,Sword Of The Stranger,액션
+750,스피드,Speed,액션
+751,미션 임파서블: 폴아웃,Mission Impossible  Fallout,액션
+752,분노의 질주: 더 세븐,Fast  Furious,액션
+753,노킹 온 헤븐스 도어,Knockin On Heavens Door,액션
+754,클리프행어,Cliffhanger,액션
+755,7인의 사무라이,Seven Samurai,액션
+756,콘 에어,Con Air,액션
+757,투캅스 3,Two Cops,액션
+758,정무문,Fist Of Fury,액션
+759,첩혈쌍웅,The Killer,액션
+760,로건,Logan,액션
+761,이연걸의 정무문,Fist Of Legend,액션
+762,록키 2,Rocky II,액션
+763,업그레이드,Upgrade,액션
+764,배트맨 2,Batman Returns,액션
